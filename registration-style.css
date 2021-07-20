@@ -1,0 +1,66 @@
+input[type=text],input[type=password]
+	{
+		margin	:4px;
+		width 	:150px;
+		height 	:20px;
+	}
+	
+label
+	{
+		color	:white;
+	}
+	
+input[type=button]
+	{
+		margin		:6px;
+		width		:100px;
+		height  	:30px;
+		color		:white;
+		background	:red;
+		border		:bold;
+		border-color:#7FFF00;
+		font-style	:italic;
+	}
+
+label[for=name]
+	{
+		margin 	:40px;
+		color	:white;
+	}
+
+.round-edged-square
+	{
+		height			: 410px;
+		width			: 510px;
+		background-color: #555;
+		border-radius	: 2%;	
+	}
+.round-edged-square2
+	{
+		height: 105px;
+		width: 290px;
+		background-color: #696969; /*border-radius:36% this can be used to cuvre the edges of the shapes*/
+	}
+	
+	a{
+		color:#DC143C;/*text color*/
+	}
+	
+/*.labelcontainer
+	{
+		height: 40px;
+		width: 140px;
+		background-color:#696969;
+		margin:10px 20px;
+		50px is the distance from top and 100px is the distance from left.
+		border-radius: 6%;
+	}
+
+.othercontainer
+	{
+		height: 320px;
+		width: 310px;
+		background-color: #555;
+		margin:10px 150px;
+	}
+	*/
